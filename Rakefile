@@ -152,6 +152,9 @@ ORIGINALS.each do |original|
 
 end
 
+# For the first run default task create the orginals directory
+task :default => ORIGINALS_DIR
+
 
 # Utility methods to create watermarks -----------------------------------------
 # See http://www.imagemagick.org/Usage/annotating/#wmark_text
