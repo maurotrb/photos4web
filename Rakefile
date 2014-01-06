@@ -1,4 +1,6 @@
+# -*- coding: utf-8 -*-
 # Rakefile for photos4web -*- ruby -*-
+# encoding: utf-8
 
 # Copyright 2011 by Mauro Taraborelli (MauroTaraborelli@gmail.com)
 # All rights reserved.
